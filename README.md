@@ -4,7 +4,7 @@ A comprehensive repository containing implementation, analysis, and visualizatio
 
 ---
 
-## 🛠️ Project Structure & Completed Tasks
+##  Project Structure & Completed Tasks
 
 ### [Task 1: Basic Geometric Transformations](task1_composite.png)
 - **Objective**: Translate, rotate, scale, and shear a single source image asset.
